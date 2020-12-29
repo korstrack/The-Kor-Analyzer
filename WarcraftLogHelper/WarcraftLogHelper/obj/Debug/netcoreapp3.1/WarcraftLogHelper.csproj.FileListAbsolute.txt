@@ -1,0 +1,13 @@
+E:\Design_work\Guild_Stuff\LogHandlers\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\WarcraftLogHelper.exe
+E:\Design_work\Guild_Stuff\LogHandlers\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.csprojAssemblyReference.cache
+E:\Design_work\Guild_Stuff\LogHandlers\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.AssemblyInfoInputs.cache
+E:\Design_work\Guild_Stuff\LogHandlers\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.AssemblyInfo.cs
+E:\Design_work\Guild_Stuff\LogHandlers\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\WarcraftLogHelper.deps.json
+E:\Design_work\Guild_Stuff\LogHandlers\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\WarcraftLogHelper.runtimeconfig.json
+E:\Design_work\Guild_Stuff\LogHandlers\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\WarcraftLogHelper.runtimeconfig.dev.json
+E:\Design_work\Guild_Stuff\LogHandlers\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\WarcraftLogHelper.dll
+E:\Design_work\Guild_Stuff\LogHandlers\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\WarcraftLogHelper.pdb
+E:\Design_work\Guild_Stuff\LogHandlers\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\CsvHelper.dll
+E:\Design_work\Guild_Stuff\LogHandlers\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.csproj.CopyComplete
+E:\Design_work\Guild_Stuff\LogHandlers\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.dll
+E:\Design_work\Guild_Stuff\LogHandlers\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.pdb
