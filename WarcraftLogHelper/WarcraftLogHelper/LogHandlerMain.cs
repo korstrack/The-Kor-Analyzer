@@ -11,11 +11,11 @@ namespace WarcraftLogHelper
 {
     public class DPSLog
     {
-        public int Parse { get; set; }
+        public string Parse { get; set; }
         public string Name { get; set; }
         public string Amount { get; set; }
         public int ilvl { get; set; }
-        public int ilvlParse { get; set; }
+        public string ilvlParse { get; set; }
         public string Active { get; set; }
         public string DPS { get; set; }
         public string end { get; set; }
@@ -242,7 +242,7 @@ namespace WarcraftLogHelper
         {
             //Read in data
             //DPS Data
-            using (var reader = new StreamReader(String.Format("E:\\Design_work\\Guild_Stuff\\LogHandlers\\WarcraftLogHelper\\WarcraftLogHelper\\Data\\{0}\\Log_DMG.csv",boss)))
+            using (var reader = new StreamReader(String.Format("..\\..\\..\\Data\\{0}\\Log_DMG.csv", boss)))
             using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
             {
                 csv.Configuration.RegisterClassMap<DPSLogMap>();
@@ -263,7 +263,7 @@ namespace WarcraftLogHelper
             }
 
             //HPS Data
-            using (var reader = new StreamReader(String.Format("E:\\Design_work\\Guild_Stuff\\LogHandlers\\WarcraftLogHelper\\WarcraftLogHelper\\Data\\{0}\\Log_Heal.csv", boss)))
+            using (var reader = new StreamReader(String.Format("..\\..\\..\\Data\\{0}\\Log_Heal.csv", boss)))
             using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
             {
                 csv.Configuration.RegisterClassMap<HPSLogMap>();
@@ -284,7 +284,7 @@ namespace WarcraftLogHelper
             }
 
             //DT Data
-            using (var reader = new StreamReader(String.Format("E:\\Design_work\\Guild_Stuff\\LogHandlers\\WarcraftLogHelper\\WarcraftLogHelper\\Data\\{0}\\Log_DT.csv", boss)))
+            using (var reader = new StreamReader(String.Format("..\\..\\..\\Data\\{0}\\Log_DT.csv", boss)))
             using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
             {
                 csv.Configuration.RegisterClassMap<DTLogMap>();
@@ -612,7 +612,7 @@ namespace WarcraftLogHelper
                 count++;
                 recordz.Add(dis.Value);
             }
-            using (var writer = new StreamWriter("E:\\Design_work\\Guild_Stuff\\LogHandlers\\WarcraftLogHelper\\WarcraftLogHelper\\Data\\Output\\Output.csv"))
+            using (var writer = new StreamWriter("..\\..\\..\\Data\\Output\\Output.csv"))
             using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
             {
                 csv.WriteRecords(recordz);
