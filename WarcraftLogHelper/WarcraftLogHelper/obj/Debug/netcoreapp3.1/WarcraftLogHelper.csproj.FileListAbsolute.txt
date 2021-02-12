@@ -24,3 +24,16 @@ E:\Git_files\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netc
 E:\Git_files\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.csproj.CopyComplete
 E:\Git_files\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.dll
 E:\Git_files\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.pdb
+F:\Design Work\KorAnalyzer\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\WarcraftLogHelper.exe
+F:\Design Work\KorAnalyzer\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\WarcraftLogHelper.deps.json
+F:\Design Work\KorAnalyzer\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\WarcraftLogHelper.runtimeconfig.json
+F:\Design Work\KorAnalyzer\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\WarcraftLogHelper.runtimeconfig.dev.json
+F:\Design Work\KorAnalyzer\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\WarcraftLogHelper.dll
+F:\Design Work\KorAnalyzer\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\WarcraftLogHelper.pdb
+F:\Design Work\KorAnalyzer\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\bin\Debug\netcoreapp3.1\CsvHelper.dll
+F:\Design Work\KorAnalyzer\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.csprojAssemblyReference.cache
+F:\Design Work\KorAnalyzer\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.AssemblyInfoInputs.cache
+F:\Design Work\KorAnalyzer\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.AssemblyInfo.cs
+F:\Design Work\KorAnalyzer\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.csproj.CopyComplete
+F:\Design Work\KorAnalyzer\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.dll
+F:\Design Work\KorAnalyzer\The-Kor-Analyzer\WarcraftLogHelper\WarcraftLogHelper\obj\Debug\netcoreapp3.1\WarcraftLogHelper.pdb

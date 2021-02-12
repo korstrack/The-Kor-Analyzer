@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Git_files\\The-Kor-Analyzer\\WarcraftLogHelper\\WarcraftLogHelper\\WarcraftLogHelper.csproj": {}
+    "F:\\Design Work\\KorAnalyzer\\The-Kor-Analyzer\\WarcraftLogHelper\\WarcraftLogHelper\\WarcraftLogHelper.csproj": {}
   },
   "projects": {
-    "E:\\Git_files\\The-Kor-Analyzer\\WarcraftLogHelper\\WarcraftLogHelper\\WarcraftLogHelper.csproj": {
+    "F:\\Design Work\\KorAnalyzer\\The-Kor-Analyzer\\WarcraftLogHelper\\WarcraftLogHelper\\WarcraftLogHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Git_files\\The-Kor-Analyzer\\WarcraftLogHelper\\WarcraftLogHelper\\WarcraftLogHelper.csproj",
+        "projectUniqueName": "F:\\Design Work\\KorAnalyzer\\The-Kor-Analyzer\\WarcraftLogHelper\\WarcraftLogHelper\\WarcraftLogHelper.csproj",
         "projectName": "WarcraftLogHelper",
-        "projectPath": "E:\\Git_files\\The-Kor-Analyzer\\WarcraftLogHelper\\WarcraftLogHelper\\WarcraftLogHelper.csproj",
-        "packagesPath": "C:\\Users\\Ian\\.nuget\\packages\\",
-        "outputPath": "E:\\Git_files\\The-Kor-Analyzer\\WarcraftLogHelper\\WarcraftLogHelper\\obj\\",
+        "projectPath": "F:\\Design Work\\KorAnalyzer\\The-Kor-Analyzer\\WarcraftLogHelper\\WarcraftLogHelper\\WarcraftLogHelper.csproj",
+        "packagesPath": "C:\\Users\\korst\\.nuget\\packages\\",
+        "outputPath": "F:\\Design Work\\KorAnalyzer\\The-Kor-Analyzer\\WarcraftLogHelper\\WarcraftLogHelper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\korst\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.105\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
